@@ -4,9 +4,7 @@
 
 ![screenshots](https://i.imgur.com/9AAQ5Bn.png)
 
-In addition you can inspect this theme at **vivify**:
-
-* [CLICK HERE](http://bytefluent.com/vivify/index.php?remote=raw.githubusercontent.com%2FKKPMW%2Fsacredforest-vim%2Fmaster%2Fcolors%2Fsacredforest.vim)
+In addition you can inspect this theme at **[VIVIFY](http://bytefluent.com/vivify/index.php?remote=https://raw.githubusercontent.com/KKPMW/oldbook-vim/master/colors/oldbook.vim)**
 
 ### Installation ###
 
