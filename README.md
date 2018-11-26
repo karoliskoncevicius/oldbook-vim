@@ -2,7 +2,14 @@
 
 ### Screenshots ###
 
+1. In action.
+
 ![screenshots](https://i.imgur.com/9AAQ5Bn.png)
+
+2. Vim group names.
+
+![screenshot2](https://i.imgur.com/fZr4J1o.png)
+
 
 In addition you can inspect this theme at **[VIVIFY](http://bytefluent.com/vivify/index.php?remote=https://raw.githubusercontent.com/KKPMW/oldbook-vim/master/colors/oldbook.vim)**
 
@@ -23,6 +30,7 @@ not be satisfactory. Therefore where available it is recommended to set `termgui
 ```VimL
 set termguicolors
 ```
+
 
 ### Inspirations ###
 
