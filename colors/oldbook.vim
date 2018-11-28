@@ -21,10 +21,10 @@ if &t_Co >= 256
 
   hi Title            ctermbg=NONE ctermfg=255  cterm=BOLD        guibg=NONE    guifg=#ebeae9 gui=BOLD
   hi Special          ctermbg=NONE ctermfg=137  cterm=NONE        guibg=NONE    guifg=#a18069 gui=NONE
-  hi Identifier       ctermbg=NONE ctermfg=101  cterm=NONE        guibg=NONE    guifg=#8d8775 gui=NONE
-  hi Constant         ctermbg=NONE ctermfg=101  cterm=NONE        guibg=NONE    guifg=#8d8775 gui=NONE
-  hi Boolean          ctermbg=NONE ctermfg=101  cterm=NONE        guibg=NONE    guifg=#8d8775 gui=NONE
-  hi String           ctermbg=NONE ctermfg=101  cterm=NONE        guibg=NONE    guifg=#8d8775 gui=NONE
+  hi Identifier       ctermbg=NONE ctermfg=101  cterm=NONE        guibg=NONE    guifg=#999083 gui=NONE
+  hi Constant         ctermbg=NONE ctermfg=101  cterm=NONE        guibg=NONE    guifg=#999083 gui=NONE
+  hi Boolean          ctermbg=NONE ctermfg=101  cterm=NONE        guibg=NONE    guifg=#999083 gui=NONE
+  hi String           ctermbg=NONE ctermfg=101  cterm=NONE        guibg=NONE    guifg=#999083 gui=NONE
   hi Delimiter        ctermbg=NONE ctermfg=246  cterm=NONE        guibg=NONE    guifg=#899ba6 gui=NONE
 
   hi LineNr           ctermbg=NONE ctermfg=242  cterm=NONE        guibg=NONE    guifg=#616c72 gui=NONE
