@@ -4,15 +4,15 @@
 
 1. In action.
 
-![screenshot1](https://i.imgur.com/dDv9FWQ.png)
+![screenshot1](https://i.imgur.com/UOSb5ax.png)
 
 2. Diff
 
-![screenshot2](https://i.imgur.com/aVQqEub.png)
+![screenshot2](https://i.imgur.com/qENM497.png)
 
 3. Vim group names.
 
-![screenshot3](https://i.imgur.com/EWiFmtj.png)
+![screenshot3](https://i.imgur.com/q2XvZzB.png)
 
 
 In addition you can inspect this theme at **[VIVIFY](http://bytefluent.com/vivify/index.php?remote=https://raw.githubusercontent.com/KKPMW/oldbook-vim/master/colors/oldbook.vim)**
