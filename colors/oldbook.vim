@@ -77,7 +77,7 @@ if &t_Co >= 256
 
   hi Error            ctermbg=NONE ctermfg=167  cterm=REVERSE     guibg=NONE    guifg=#db6c6c gui=REVERSE
   hi Ignore           ctermbg=NONE ctermfg=NONE cterm=NONE        guibg=NONE    guifg=NONE    gui=NONE
-  hi Todo             ctermbg=238  ctermfg=74   cterm=UNDERLINE   guibg=#3c4855 guifg=#3ba2cc gui=UNDERLINE
+  hi Todo             ctermbg=NONE ctermfg=74   cterm=UNDERLINE   guibg=NONE    guifg=#3ba2cc gui=UNDERLINE
 
   hi NonText          ctermbg=NONE ctermfg=242  cterm=NONE        guibg=NONE    guifg=#616c72 gui=NONE
 
