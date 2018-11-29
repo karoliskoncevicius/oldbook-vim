@@ -1,5 +1,7 @@
 # Old Book colorscheme for vim #
 
+![picture](https://i.imgur.com/o02iXp4.jpg)
+
 ### Screenshots ###
 
 1. In action.
