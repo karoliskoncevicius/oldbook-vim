@@ -16,7 +16,7 @@
 ![screenshot3](https://i.imgur.com/q2XvZzB.png)
 
 
-In addition you can inspect this theme at **[VIVIFY](http://bytefluent.com/vivify/index.php?remote=https://raw.githubusercontent.com/KKPMW/oldbook-vim/master/colors/oldbook.vim)**
+In addition you can inspect this theme at **[VIVIFY](http://bytefluent.com/vivify/index.php?remote=https://raw.githubusercontent.com/karoliskoncevicius/oldbook-vim/master/colors/oldbook.vim)**
 
 
 ### Installation ###
@@ -26,7 +26,7 @@ Install manually or with your favorite plug-in manager and then load the theme.
 With `vim-plug`:
 
 ```VimL
-Plug 'KKPMW/oldbook-vim'
+Plug 'karoliskoncevicius/oldbook-vim'
 colorscheme oldbook
 ```
 
